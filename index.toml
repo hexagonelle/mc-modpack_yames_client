@@ -5601,7 +5601,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-air-ducts.pw.toml"
-hash = "db9710ebd6cb50c48c7f25ebab60a54f39d90a38eb7679f252b0db7d0b7e2eda"
 metafile = true
 
 [[files]]
@@ -7074,26 +7073,6 @@ hash = "82e610917524c6f1af58e102a1be333665ee9af1649477aae0546a30d1ae3114"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Explorer_Compass_Retexture.zip"
-hash = "5c23815e8b0ecc16c22e8a70154c39bab088a60ff6f71ba11010db77f844905d"
-
-[[files]]
-file = "resourcepacks/Immersive Generators EMI.zip"
-hash = "23477f66845a3127042e65963711a3c3971f532fc80342c86207b8f43611c350"
-
-[[files]]
-file = "resourcepacks/MerchantFix.zip"
-hash = "71c24740f6e744f464393623fb127725cf683ebb4d59749e0e18a1889db579b6"
-
-[[files]]
-file = "resourcepacks/The Wither, King of the Nether.zip"
-hash = "2543bddfde499c4e066de88c77008f310af1319a58814b8e093034bc6bea8f49"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks1.20.x.zip"
-hash = "a5576b02bc9b2dae18ee1ac8d79611d07c9a790c337da84e40397aa89b975a57"
-
-[[files]]
 file = "resourcepacks/all-tropical-fish-collection.pw.toml"
 hash = "adf46961365f68f3427da2cdc8fff622d111716876849d51f7b27ba3c334051a"
 metafile = true
@@ -7109,8 +7088,9 @@ hash = "3db49ac7b3fdcfe1c62f54dbda1d764551280b420db74b2a15f740679243b26c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cluttered_everycomp_fix.zip"
-hash = "7bd3b5d1f0481942f592851b50ce575ada9fb11e765c727e12fec2933ad1d6e7"
+file = "resourcepacks/cluttered_everycomp_fix.pw.toml"
+hash = "f1fb6f3fc4d62166c408f61566f11382c974bf9a1b8e155e4b99efd9ad799291"
+metafile = true
 
 [[files]]
 file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
@@ -7138,8 +7118,23 @@ hash = "147e24fa90a93776d3fa7f57496182283cc1e4f8f03a2b3f8eb41954acebaf16"
 metafile = true
 
 [[files]]
+file = "resourcepacks/explorer_compass_retexture.pw.toml"
+hash = "36f90d6e83b7ded10f8912cc9db691c55b9db916ecba067f8bd3d8452f0b3f29"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/immersive_generators_emi.pw.toml"
+hash = "7733542b4c394e3937a31220ddd14c0531f8da8164c629f9d7dcb8df2e406ef0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/merchant_fix.pw.toml"
+hash = "01e2219ba3bc91310a6f80d677f1c0fa5b4b44f18f1609eb60af0a1c48aed9f2"
 metafile = true
 
 [[files]]
@@ -7158,8 +7153,9 @@ hash = "a4b248dc8851f286d84e0d44f4beac8e04ca2114f51f47806b92605cf949fb2c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/reimaginedTest.zip"
-hash = "9696386b7c2f0351ffef6802fb445779e4bdc80a8194d44ca6844782a8bfe349"
+file = "resourcepacks/reimagined_test.pw.toml"
+hash = "85f632e1120cc528fe3bd1a96f9b9d4ad25cec6d7adc854ba214a3d83902ee73"
+metafile = true
 
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
@@ -7169,6 +7165,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/sophisticated-quark.pw.toml"
 hash = "e1e8611a93ee4bd1646d6327d60db908c12e9cf88e7c447f205eddb6a6080f81"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla_tweaks_1.20.x.pw.toml"
+hash = "aa81b4120860c8e62889222211d55bee8334012ce2ae0d444e74d6e8a1d9a629"
 metafile = true
 
 [[files]]
@@ -7184,6 +7185,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/visual-travelers-titles.pw.toml"
 hash = "d59de12cad6c6346a76ee32b5ed2fea007ff8832771591f204a0ce6a0704dd1b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wither_king_of_nether.pw.toml"
+hash = "992dc131fe2555649d90555275ce97ffd96e012180489b7b367ceb49f85ec8f7"
 metafile = true
 
 [[files]]
