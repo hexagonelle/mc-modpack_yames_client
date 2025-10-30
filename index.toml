@@ -5601,6 +5601,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-air-ducts.pw.toml"
+hash = "d37b6ffd39d24bb6f1675b76a23121a4923282dbefb23e253573d3c896983e10"
 metafile = true
 
 [[files]]
@@ -5615,7 +5616,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "8765634408815b3254142f52d7cdb979f01e46ed4616de16436a4ba85e74228c"
+hash = "97d53eb23caae90250d61a8624ffccf91ca16df07614b294cdafbc387f09aa26"
 metafile = true
 
 [[files]]
@@ -6050,7 +6051,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
+hash = "51af4a776fd62c9349329b2b13e0c29f80f5d728bba7afce35e512dcf6f10beb"
 metafile = true
 
 [[files]]
@@ -6200,7 +6201,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+hash = "4bdf4efade5b9448d5257ef4c327e173bb0f37b9ac95b861340109016f4e2de2"
 metafile = true
 
 [[files]]
@@ -6326,6 +6327,11 @@ metafile = true
 [[files]]
 file = "mods/libertyvillagers.pw.toml"
 hash = "f019706dd32c4232763a2650e46b517400ce81a7c6688e04d4dafb2dcb9afc48"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "0b9e11096e44f7fe230e3578ddf5d898c0c29bbeeb00cc09026de6eae695b0c3"
 metafile = true
 
 [[files]]
