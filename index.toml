@@ -4054,7 +4054,7 @@ hash = "b297dce230677a8fdf32f1646b7cd36659b64197fb3809939e52f482a1e12df1"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "6dfffc103c20310f90159ad24bc39523038ef56f734b259957bea89c6917d99f"
+hash = "e990ded88792598e38cda78571e5a0212b31c1a5b8ea6c86d0fad1d8b609374f"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -5706,6 +5706,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-qol.pw.toml"
+hash = "e32670267d78438c97c0cfbdb8cf4736975bc1e69fc9d93558f2cf682dac8f75"
 metafile = true
 
 [[files]]
