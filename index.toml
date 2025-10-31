@@ -4054,7 +4054,7 @@ hash = "b297dce230677a8fdf32f1646b7cd36659b64197fb3809939e52f482a1e12df1"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e990ded88792598e38cda78571e5a0212b31c1a5b8ea6c86d0fad1d8b609374f"
+hash = "5fa89af729feb312bbfd42c3970d24dd25b4ca763003177f28317154763f8076"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -7096,6 +7096,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/cluttered_everycomp_fix.pw.toml"
 hash = "f1fb6f3fc4d62166c408f61566f11382c974bf9a1b8e155e4b99efd9ad799291"
+metafile = true
+
+[[files]]
+file = "resourcepacks/compressed_blocks.pw.toml"
+hash = "fd252a6a8f8528ef18ffc2b744d5786c29ded0d4f4ce2d265d55f55d47b93002"
 metafile = true
 
 [[files]]
