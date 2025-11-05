@@ -1,6 +1,6 @@
 name = "Default Server Properties"
 filename = "default-server-properties-forge-81.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Fnrzx9Jl/versions/x8LSejaq/default-server-properties-forge-81.1.0.jar"

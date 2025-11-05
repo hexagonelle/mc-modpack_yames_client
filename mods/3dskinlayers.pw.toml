@@ -1,6 +1,6 @@
 name = "3D Skin Layers"
 filename = "skinlayers3d-forge-1.9.2-mc1.20.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/BBnR3V86/skinlayers3d-forge-1.9.2-mc1.20.1.jar"

@@ -1,6 +1,6 @@
 name = "Regrowth"
 filename = "regrowth-1.20-46.31.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/eR7uVkrb/versions/LSUJIpgX/regrowth-1.20-46.31.2.jar"

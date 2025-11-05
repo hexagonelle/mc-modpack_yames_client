@@ -1,6 +1,6 @@
 name = "Create: Oxidized"
 filename = "create_oxidized-0.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/X9kjRZeX/versions/97H7hIZy/create_oxidized-0.1.2.jar"

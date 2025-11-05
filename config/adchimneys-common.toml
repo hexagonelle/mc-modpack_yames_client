@@ -17,11 +17,11 @@
 	#Whether to replace vanilla smoke particles from a campfire or not
 	replaceVanillaCampfireSmoke = true
 	#Whether smoke causes poisoning to animals
-	poisonAnimals = true
+	poisonAnimals = false
 	#Whether smoke causes poisoning to hostile mobs
-	poisonHostileMobs = true
+	poisonHostileMobs = false
 	#Whether smoke causes poisoning to non-playable characters
-	poisonNPCs = true
+	poisonNPCs = false
 	#Whether smoke causes poisoning to players
 	poisonPlayers = true
 

@@ -1,6 +1,6 @@
 name = "Bad Horse Fix"
 filename = "badhorsefix-forge-3.0.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/NTtIPz4X/badhorsefix-forge-3.0.1.jar"

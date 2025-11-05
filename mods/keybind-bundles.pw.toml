@@ -1,6 +1,6 @@
 name = "KeyBind Bundles"
 filename = "keybindbundles-1.20.1-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qs2zRREk/versions/HZrSI7SS/keybindbundles-1.20.1-1.0.0.jar"

@@ -1,6 +1,6 @@
 name = "MoreMcmeta Emissive Textures"
 filename = "emissive-plugin-1.20.1-2.0.4-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oQ0dIGZg/versions/rkJ3fswP/emissive-plugin-1.20.1-2.0.4-forge.jar"

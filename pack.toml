@@ -1,4 +1,4 @@
-name = "Yames Client"
+name = "Yames SP"
 author = "hexagonelle"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8c696552fbc10136c6bd578eb23be16ec3eaa4ed06e3f7a50d1edebc18bcc5d8"
+hash = "efbaf78af436262849e5ab1c048a7e5ac805c064bfa44bf12a1e0d35ac95d794"
 
 [versions]
 forge = "47.4.0"

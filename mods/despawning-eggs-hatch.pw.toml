@@ -1,6 +1,6 @@
 name = "Despawning Eggs Hatch"
 filename = "despawningeggshatch-1.20.1-4.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iKRtwScn/versions/I5LEJ06o/despawningeggshatch-1.20.1-4.5.jar"

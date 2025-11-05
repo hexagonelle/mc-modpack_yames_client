@@ -1,6 +1,6 @@
 name = "Client Tweaks"
 filename = "clienttweaks-forge-1.20.1-11.1.5.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/H8SeAE8l/clienttweaks-forge-1.20.1-11.1.5.jar"

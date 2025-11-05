@@ -1,6 +1,6 @@
 name = "Particle Rain"
 filename = "particlerain-4.0.0-beta.3+1.20.1-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nrikgvxm/versions/aFwRYRIm/particlerain-4.0.0-beta.3%2B1.20.1-forge.jar"

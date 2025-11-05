@@ -1,6 +1,6 @@
 name = "Integrated Villages"
 filename = "integrated_villages-1.1.4+1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/o1qh5qIF/versions/Kf4abzJW/integrated_villages-1.1.4%2B1.20.1-forge.jar"

@@ -1,6 +1,6 @@
 name = "Auto Third Person"
 filename = "auto_third_person-forge-1.20.1-2.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ANu8FMzT/versions/m8X9EICJ/auto_third_person-forge-1.20.1-2.1.jar"
